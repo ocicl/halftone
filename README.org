@@ -1,0 +1,10 @@
+* halftone
+
+A simple image viewer in Common Lisp.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/Shinmera/halftone.git   |
+| commit  | 1e7be17  |
+| systems | halftone |
+|---------+-------------------------------------------|
+
