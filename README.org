@@ -2,9 +2,9 @@
 
 A simple image viewer in Common Lisp.
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/Shinmera/halftone.git   |
-| commit  | 1e7be17  |
-| systems | halftone |
-|---------+-------------------------------------------|
+|---------+-------------------------------------------------|
+| source  | git:https://codeberg.org/Shinmera/halftone.git |
+| commit  | 358aca4                                         |
+| systems | halftone                                        |
+|---------+-------------------------------------------------|
 
