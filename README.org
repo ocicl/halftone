@@ -8,4 +8,4 @@ A simple image viewer in Common Lisp.
 | systems | halftone                                        |
 |---------+-------------------------------------------------|
 
- 
+  
